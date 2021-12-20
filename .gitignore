@@ -1,0 +1,11 @@
+# Comment
+
+/target/*
+/Screenshots/*
+*.jar
+.idea/
+.DS_Store
+**/.DS_Store
+test.xml
+node_modules/
+ package-lock.json
